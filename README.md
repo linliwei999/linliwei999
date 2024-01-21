@@ -1,5 +1,3 @@
-🐌 btoa('Hello World') ..
-
 ### Hey, This is linliwei999
 
 [![Mail Badge](https://img.shields.io/badge/-linliwei999@foxmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:linliwei999@foxmail.com)](mailto:linliwei999@foxmail.com) [![Github Badge](https://img.shields.io/badge/-linliwei999-grey?style=flat&logo=github&logoColor=white&link=https://github.com/linliwei999/)](https://www.github.com/linliwei999/)
